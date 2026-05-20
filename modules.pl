@@ -10,7 +10,6 @@ my @modules = qw(
     Getopt::Long
     Markdent
     Template
-    Test::HTML::Tidy5
 );
 
 say '# Checking that we have all our necessary modules.';

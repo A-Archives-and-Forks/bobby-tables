@@ -25,4 +25,4 @@ test: crank
 
 rsync:
 	rsync -azu -e ssh --delete --verbose \
-	    $(BUILD)/ andy@alex.petdance.com:/srv/bobby
+	    $(BUILD)/ andy@diper.petdance.com:/srv/bobby
