@@ -67,6 +67,7 @@ Thanks to the following folks for their contributions:
 * Kirk Kimmel
 * Nathan Mahdavi
 * [Hannes Hofmann](http://www5.informatik.uni-erlangen.de/en/our-team/hofmann-hannes)
+* [Henry Romp](https://hromp.com)
 * [Mike Angstadt](http://www.mangst.com)
 * [Peter Ward](http://identi.ca/flowblok/)
 * [David Wheeler](http://justatheory.com)

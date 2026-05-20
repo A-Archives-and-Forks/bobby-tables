@@ -36,6 +36,7 @@ my $pages = [
     com_automation => 'COM',
     csharp         => 'C#',
     delphi         => 'Delphi',
+    elixir         => 'Elixir',
     adodotnet_ef   => 'Entity Framework',
     go             => 'Go',
     java           => 'Java',
